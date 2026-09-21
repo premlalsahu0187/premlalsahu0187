@@ -134,6 +134,4 @@ Web Development
    ↓
 Projects & Hackathons
    ↓
-AI / ML
-   ↓
 Software Developer 🚀
