@@ -30,7 +30,7 @@
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🏆 Working on **Smart India Hackathon projects**
 - 💼 Preparing for **internships and campus placements**
-
+- 
 ---
 
 ## 🛠️ Tech Stack & Skills
