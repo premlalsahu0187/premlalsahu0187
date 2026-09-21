@@ -115,14 +115,6 @@ I am particularly interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-![Premlal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=premlalsahu0187&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premlalsahu0187&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=premlalsahu0187&theme=tokyonight)
